@@ -1,6 +1,8 @@
 # kaldi-compiled
 These are the folders and files I used to compile Kaldi for Android on Ubuntu 20.04. This will not launch an emulator, but is used to create some .so files.
 
+The compilation has a few errors, which I ignored for the most part as the proper files were created at the end, which can be imported into a lib file in an android studio project.
+
 The following sites were used in order of most to least consulted:
   1. https://medium.com/swlh/compile-kaldi-for-64-bit-android-on-ubuntu-18-70967eb3a308 (followed almost exact steps with a few modifications)
   2. http://jcsilva.github.io/2017/03/18/compile-kaldi-android/
